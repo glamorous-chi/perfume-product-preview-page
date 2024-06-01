@@ -24,13 +24,13 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![Desktop Design](desktopview.png)
-![Mobile Design](mobileview.png)
+[Desktop Design](desktopview.png)
+[Mobile Design](mobileview.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://perfume-product-preview-page.vercel.app/)
+- Live Site URL: (https://perfume-product-preview-page.vercel.app/)
 
 ## My process
 Using Bootstrap for this project helped me a lot with achieving responsivesness easily, alongside media queries that targeted various device widths
