@@ -38,7 +38,6 @@ Using Bootstrap for this project helped me a lot with achieving responsivesness 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - BootStrap 5
 
