@@ -14,7 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
 
 ## Overview
-This is a simple Frontend project for newbies, that tests ones HTML and CSS skilss
+This is a simple Frontend project for newbies, that tests their HTML and CSS skills
 
 ### The challenge
 
@@ -47,5 +47,5 @@ Using Bootstrap for this project helped me a lot with achieving responsivesness 
 I learned that I need to improve on my CSS skills, so I can better achieve whatever design I see.
 
 ### Continued development
-Going forward, I will be working more on my CSS skills, and how to use utility classes to my benefit.
+Going forward, I will be sharpening my CSS skills, and learning to use utility classes to my benefit.
 
