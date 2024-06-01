@@ -24,12 +24,12 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-[Desktop Design](desktopview.png)
-[Mobile Design](mobileview.png)
+![Desktop Design](desktopview.png)
+![Mobile Design](mobileview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://your-solution-url.com)
 - Live Site URL: (https://perfume-product-preview-page.vercel.app/)
 
 ## My process
