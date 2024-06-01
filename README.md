@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-using-bootstrap-Lg96LCjTcv)
 - Live Site URL: (https://perfume-product-preview-page.vercel.app/)
 
 ## My process
