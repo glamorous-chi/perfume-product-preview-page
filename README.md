@@ -46,5 +46,5 @@ Using Bootstrap for this project helped me a lot with achieving responsivesness 
 I learned that I need to improve on my CSS skills, so I can better achieve whatever design I see.
 
 ### Continued development
-Going forward, I will be sharpening my CSS skills, and learning to use utility classes to my benefit.
+Going forward, I will be sharpening my CSS skills, and learning to use utility classes, and custom properties to my benefit.
 
